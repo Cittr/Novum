@@ -42,8 +42,8 @@ root {
   --accent-desaturated: #b47a7a; /* [default: #b47a7a] */
   --button-text: #dddddd; /* [default: #dddddd] */
   --button-text-selected: #ffffff; /* [default: #ffffff] */
-  --profile-background: url("https://przemec.github.io/Novum/assets/images/profile.png"); /* background of profile popout [default: url("https://przemec.github.io/Novum/assets/images/profile.png")] */
-  --profile-activity: #6d1515; /* color of activity field in profile left-click popout [default: #6d1515] */
+  --profile-background: url("https://przemec.github.io/Novum/assets/images/profile.png"); /* background of profile popout [default: url("")] */
+  --profile-activity: #6d1515; /* color of activity field in profile left-click popout [default: #6d1515] */https://cdn.discordapp.com/attachments/1124726057606598753/1128301664865095795/XtaleFell5.jpeg
   --scroll-thumb-color: #a54b4b; /* color of scrollbars [default: #a54b4b] */
   --reaction-size: 30; /* custom size of reaction on chat [default: 30, discord's default: 16] */
 }
